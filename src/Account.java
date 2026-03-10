@@ -1,9 +1,9 @@
 public class Account {
-    private String id, name;
+    private String ID, Name;
     private double Balance;
 
     public Account(String id, String name) {
-        this.id = id;
-        this.name = name;
+        this.ID = id;
+        this.Name = name;
     }
 }
